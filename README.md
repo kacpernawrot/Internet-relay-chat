@@ -1,6 +1,5 @@
-# Komunikator internetowy typu IRC– sprawozdanie z projektu SK2
-Michał Olszewski 144482
-Kacper Nawrot 145246
+# Komunikator internetowy typu IRC
+
 
 
 1. Opis protokołu komunikacyjnego.
